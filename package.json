@@ -1,0 +1,45 @@
+{
+  "name": "docx2jsx",
+  "version": "1.0.4",
+  "description": "Use Node to convert docx to JS or JSON.",
+  "main": "index.js",
+  "bin": {
+    "docx2jsx": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cloudmersive-convert-api-client": "^2.6.3",
+    "commander": "^7.1.0",
+    "fs-extra": "^9.1.0",
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "docx2js",
+    "docx2jsx",
+    "docx2txt",
+    "docx2text",
+    "docx2json",
+    "docx",
+    "Node"
+  ],
+  "files": [
+    "bin",
+    "lib",
+    "configTemplate.js"
+  ],
+  "author": {
+    "name": "houzhenhua",
+    "url": "https://github.com/zhenghuahou"
+  },
+  "homepage": "https://github.com/zhenghuahou/docx2jsx",
+  "license": "ISC"
+}
