@@ -23,11 +23,11 @@
     "node": ">=8"
   },
   "keywords": [
-    "docx2js",
-    "docx2jsx",
-    "docx2txt",
-    "docx2text",
-    "docx2json",
+    "docx to js",
+    "docx to jsx",
+    "docx to txt",
+    "docx to text",
+    "docx to json",
     "docx",
     "Node"
   ],
