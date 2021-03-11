@@ -1,6 +1,6 @@
 {
   "name": "docx2jsx",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Use Node to convert docx to JS or JSON.",
   "main": "index.js",
   "bin": {
